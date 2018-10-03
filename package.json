@@ -3,9 +3,9 @@
   "description": "Slack API for node that isn't stupid.",
   "version": "4.0.10",
   "dependencies": {
-    "deep-equal": "^1.0.1",
-    "frozor-websocket": "^1.1.x",
-    "request": "^2.78.x"
+    "deep-equal": "^1.x.x",
+    "frozor-websocket": "^1.x.x",
+    "request": "^2.x.x"
   },
   "main": "index.js"
 }
