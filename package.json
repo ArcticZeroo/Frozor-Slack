@@ -1,7 +1,7 @@
 {
   "name": "frozor-slack",
   "description": "Slack API for node that isn't stupid.",
-  "version": "4.0.10",
+  "version": "4.0.11",
   "dependencies": {
     "deep-equal": "^1.x.x",
     "frozor-websocket": "^1.x.x",
